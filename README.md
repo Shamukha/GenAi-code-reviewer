@@ -9,7 +9,5 @@ Actionable Insights: Offers meaningful feedback tailored to improve code quality
 User-Friendly Interface: Enables seamless interaction, making the feedback accessible and easy to apply.
 This project is a step towards modernizing the code review process by saving time, ensuring unbiased feedback, and fostering better programming practices.
 
-Built At
-Innomatics Research Labs under the guidance of Kanav Bansal.
+Built with the help of Innomatics Research Labs under the guidance of Kanav Bansal Sir.
 
-Explore the source code and contribute to the project!
